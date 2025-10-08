@@ -8,6 +8,7 @@
 > **Automatically remove artificial thread caps and memory limits from Nexus CLI to unlock your CPU's full potential.**
 
 Nexus CLI artificially limits your CPU usage to 75% (or 8 threads max in older versions). This script removes those limits safely, allowing you to use **100% of your CPU cores** for maximum mining performance.
+you can join the nexus project by clicking [this link](https://quest.nexus.xyz/loyalty?referral_code=27YNOHL9) 
 
 ---
 
